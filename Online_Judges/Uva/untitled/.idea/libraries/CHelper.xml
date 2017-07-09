@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CHelper">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/chelper3.0beta13.jar!/" />
+      <root url="jar://$APPLICATION_PLUGINS_DIR$/chelper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

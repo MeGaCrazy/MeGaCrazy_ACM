@@ -1,0 +1,30 @@
+4 Task
+12 MULTI_NUMBER
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+23 3
+24 1
+4358 754
+305 794
+9 34
+1998
+1
+1
+10 src/Stupid
+16 -Xmx256m -Xss64m
+4 Main
+11 Stupid.Task
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.06.29
+3 Bla
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,2 @@
+38 src/Stupid/Binomial_Theorem_11955.task
+0

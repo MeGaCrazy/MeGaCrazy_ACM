@@ -1,0 +1,47 @@
+12 Stripe_10541
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+2
+0
+22 3
+4 0
+5 2 1 2
+4 2 2 2
+
+5 1
+3
+0
+1
+1
+207 6 
+200 50 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 
+5 2 1 2 
+4 0 
+4 2 2 2 
+200 25 1 2 3 1 2 5 6 4 8 2 1 4 2 1 4 2 1 4 2 1 5 2 1 3 2 
+25 5 2 3 2 8 1 
+80 30093344528411106697329459321983432455140
+3
+1
+0
+587784321942209843029001280
+252
+
+1
+10 src/Stupid
+16 -Xmx256m -Xss64m
+4 Main
+19 Stupid.Stripe_10541
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.07.05
+0 
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0

@@ -1,0 +1,33 @@
+20 Simplifying_Fraction
+6 SINGLE
+8 STANDARD
+9 input.txt
+8 STANDARD
+10 output.txt
+1
+0
+26 4
+1 / 2
+2 / 4
+3 / 3
+4 / 2
+
+23 1 / 2
+1 / 2
+1 / 1
+2 / 1
+1
+10 src/Stupid
+16 -Xmx256m -Xss64m
+4 Main
+27 Stupid.Simplifying_Fraction
+39 net.egork.chelper.checkers.TokenChecker
+0 
+0
+10 2017.06.29
+3 Uva
+1
+17 java.util.Scanner
+19 java.io.PrintWriter
+0
+0
