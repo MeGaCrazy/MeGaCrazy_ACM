@@ -1,6 +1,6 @@
 /*
 *      Idea : First let say the array will be divisble by g then we have 2 choices
-*             Increace +1 or delete element all , First whats in Numbers Range what is number not divisble by g
+*             Increace +1 or delete element ...First whats in Numbers Range what is number not divisble by g
 *             is The number Between multiple consective multiple of g  let say g=4 
 *                 4 5 6 7 8
 *                   |---|  this the range must be edit i can delete or i can add +1 and then all i do now
