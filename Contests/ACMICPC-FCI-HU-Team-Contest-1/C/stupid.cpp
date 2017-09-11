@@ -1,5 +1,6 @@
 /*
 *     make topological sort and numbers them by order(id) and then make dp to get max :)
+*     and Trick id to manage if i choice number have a lot of prequities i can in dp jumb over all this numbers :) 
 *
 */
 
