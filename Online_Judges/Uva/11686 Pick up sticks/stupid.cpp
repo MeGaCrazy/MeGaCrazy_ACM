@@ -38,6 +38,7 @@ int main(){
       int a,b;
       for(int i=0;i<m;i++){
           scanf("%d %d",&a,&b);
+           degree[b]++;
           adj[a].push_back(b);      
       }
      solve();
